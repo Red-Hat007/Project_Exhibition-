@@ -2,4 +2,3 @@
 
 The situation now is the same as every time a new platform develops: if you don’t have something your customers can access, you're giving that medium to your competition. At the moment, an automated presence on Google Home or Slack may not be central to your strategy, but those who claim ground now could dominate it in the future.
 
-The problem is time. Sure, it'd be ideal to be everywhere all the time, to have your brand active on every platform. But it would also be ideal to catch at least four hours sleep a night or stop covering our keyboards with three-day-old chili con carne as we eat a hasty lunch in between building two of the Next Big Things. 
