@@ -12,5 +12,5 @@ For example: Mezi
 
 Develop games providing rich content support: GameBot is Telegram’s in-app gaming platform which is an artificial intelligence bot that can provide HTML5 content support. Another bot named Gamee lets you play the best arcades and puzzles directly in Telegram.
 
-                                                                    Chatbots for health purposes
+                                                         Chatbots for health purposes
 For facilitating a rapid, methodical flow of information between doctors and their patients an AI-powered conversational bot called Melody was developed. It takes information from the patients, reverts to their queries and gives feedback to the real life doctors. HealthTap is the first medical platform on Facebook Messenger that allows you to talk to a doctor instantly. Chatbots keep information about weight or age guidelines, keep the parents informed about their child’s physical and health state.
